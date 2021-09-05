@@ -1,0 +1,11 @@
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\SetTable\bin\Debug\SetTable.exe.config
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\SetTable\bin\Debug\SetTable.exe
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\SetTable\bin\Debug\SetTable.pdb
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\SetTable\obj\Debug\SetTable.csproj.AssemblyReference.cache
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\SetTable\obj\Debug\SetTable.Properties.Resources.resources
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\SetTable\obj\Debug\SetTable.csproj.GenerateResource.cache
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\SetTable\obj\Debug\SetTable.csproj.CoreCompileInputs.cache
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\SetTable\obj\Debug\SetTable.exe
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\SetTable\obj\Debug\SetTable.pdb
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\SetTable\obj\Debug\SetTable.frmMain.resources
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\SetTable\obj\Debug\SetTable.frmAdmin.resources

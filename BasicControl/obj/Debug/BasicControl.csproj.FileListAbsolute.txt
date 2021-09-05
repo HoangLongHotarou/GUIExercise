@@ -1,0 +1,11 @@
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\BasicControl\bin\Debug\BasicControl.exe.config
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\BasicControl\bin\Debug\BasicControl.exe
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\BasicControl\bin\Debug\BasicControl.pdb
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\BasicControl\obj\Debug\BasicControl.csproj.AssemblyReference.cache
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\BasicControl\obj\Debug\BasicControl.Properties.Resources.resources
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\BasicControl\obj\Debug\BasicControl.csproj.GenerateResource.cache
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\BasicControl\obj\Debug\BasicControl.csproj.CoreCompileInputs.cache
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\BasicControl\obj\Debug\BasicControl.exe
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\BasicControl\obj\Debug\BasicControl.pdb
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\BasicControl\obj\Debug\BasicControl.frmLogin.resources
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\BasicControl\obj\Debug\BasicControl.frmMain.resources

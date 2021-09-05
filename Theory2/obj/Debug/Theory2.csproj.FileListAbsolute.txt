@@ -1,0 +1,13 @@
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\Theory2\bin\Debug\Theory2.exe.config
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\Theory2\bin\Debug\Theory2.exe
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\Theory2\bin\Debug\Theory2.pdb
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\Theory2\obj\Debug\Theory2.csproj.AssemblyReference.cache
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\Theory2\obj\Debug\Theory2.Form1.resources
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\Theory2\obj\Debug\Theory2.Properties.Resources.resources
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\Theory2\obj\Debug\Theory2.csproj.GenerateResource.cache
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\Theory2\obj\Debug\Theory2.csproj.CoreCompileInputs.cache
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\Theory2\obj\Debug\Theory2.exe
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\Theory2\obj\Debug\Theory2.pdb
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\Theory2\obj\Debug\Theory2.AddFeedForm.resources
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\Theory2\bin\Debug\Data\Data.txt
+E:\third_Year\LapTrinhCSDL\Bai1\GUIExercise\Theory2\obj\Debug\Theory2.Component.NewsControl.resources

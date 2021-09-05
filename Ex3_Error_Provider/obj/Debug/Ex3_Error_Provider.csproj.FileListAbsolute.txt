@@ -1,0 +1,9 @@
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex3_Error_Provider\bin\Debug\Ex3_Error_Provider.exe.config
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex3_Error_Provider\bin\Debug\Ex3_Error_Provider.exe
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex3_Error_Provider\bin\Debug\Ex3_Error_Provider.pdb
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex3_Error_Provider\obj\Debug\Ex3_Error_Provider.Properties.Resources.resources
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex3_Error_Provider\obj\Debug\Ex3_Error_Provider.csproj.GenerateResource.cache
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex3_Error_Provider\obj\Debug\Ex3_Error_Provider.csproj.CoreCompileInputs.cache
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex3_Error_Provider\obj\Debug\Ex3_Error_Provider.exe
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex3_Error_Provider\obj\Debug\Ex3_Error_Provider.pdb
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex3_Error_Provider\obj\Debug\Ex3_Error_Provider.frmUserControl.resources

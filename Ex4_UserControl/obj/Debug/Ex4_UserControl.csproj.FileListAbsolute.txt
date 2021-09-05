@@ -1,0 +1,11 @@
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex4_UserControl\bin\Debug\Ex4_UserControl.exe.config
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex4_UserControl\bin\Debug\Ex4_UserControl.exe
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex4_UserControl\bin\Debug\Ex4_UserControl.pdb
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex4_UserControl\obj\Debug\Ex4_UserControl.Form1.resources
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex4_UserControl\obj\Debug\Ex4_UserControl.Properties.Resources.resources
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex4_UserControl\obj\Debug\Ex4_UserControl.USLogin.resources
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex4_UserControl\obj\Debug\Ex4_UserControl.csproj.GenerateResource.cache
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex4_UserControl\obj\Debug\Ex4_UserControl.csproj.CoreCompileInputs.cache
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex4_UserControl\obj\Debug\Ex4_UserControl.exe
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex4_UserControl\obj\Debug\Ex4_UserControl.pdb
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex4_UserControl\obj\Debug\Ex4_UserControl.csproj.AssemblyReference.cache

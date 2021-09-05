@@ -1,0 +1,10 @@
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex2_TreeView\bin\Debug\Ex2_TreeView.exe.config
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex2_TreeView\bin\Debug\Ex2_TreeView.exe
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex2_TreeView\bin\Debug\Ex2_TreeView.pdb
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex2_TreeView\obj\Debug\Ex2_TreeView.csproj.AssemblyReference.cache
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex2_TreeView\obj\Debug\Ex2_TreeView.frmTreeView.resources
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex2_TreeView\obj\Debug\Ex2_TreeView.Properties.Resources.resources
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex2_TreeView\obj\Debug\Ex2_TreeView.csproj.GenerateResource.cache
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex2_TreeView\obj\Debug\Ex2_TreeView.csproj.CoreCompileInputs.cache
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex2_TreeView\obj\Debug\Ex2_TreeView.exe
+E:\LapTrinhCSDL\Bai1\GUIExercise\Ex2_TreeView\obj\Debug\Ex2_TreeView.pdb
